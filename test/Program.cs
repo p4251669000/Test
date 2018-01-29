@@ -10,7 +10,7 @@ namespace test
     {
         static void Main(string[] args)
         {
-            string test1= " fx1分支";
+            string test2= " fx2分支";
         }
     }
 }
